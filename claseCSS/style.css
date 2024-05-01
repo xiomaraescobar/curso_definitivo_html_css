@@ -1,0 +1,14 @@
+/* formas de agregar estilos por: selector*/
+p {
+    color: blue;
+    font-size: 40px;
+}
+/* agregar estilo por: class*/
+.parrafo {
+    color: red;
+}
+/* agregar estilo por: ID*/
+#texto {
+    color: yellow;
+    font-size: 24px;
+}
